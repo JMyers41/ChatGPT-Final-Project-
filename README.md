@@ -1,4 +1,4 @@
-# ChatGPT Final Project
+# ChatGPT Final Project, BootCon!
 
 My final project for UT Austin Cybersecurity bootcamp. 
 
